@@ -15,3 +15,4 @@
 #
 
 add_lunch_combo lineage_Z008-userdebug
+add_lunch_combo lineage_Z008-eng
